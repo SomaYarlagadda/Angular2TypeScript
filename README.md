@@ -1,2 +1,2 @@
-# Angular2TypeScript
+# Angular TypeScript
 Angular JS with TypeScript
